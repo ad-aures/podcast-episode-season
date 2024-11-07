@@ -1,0 +1,7 @@
+{
+  "name": "ad-aures/podcast-episode-season",
+  "version": "0.1.0",
+  "description": "A Castopod plugin to indicate the podcast's episode and season number following Podcasting 2.0's specification.",
+  "license": "MIT",
+  "hooks": ["rssAfterItem"]
+}
